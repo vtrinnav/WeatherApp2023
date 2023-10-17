@@ -1,0 +1,123 @@
+body{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background-image: url(./Img/487.jpg);
+}
+
+.weather-app{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.title{
+    margin: 20px;
+    font-size: 48px;
+    font-weight: 900;
+    color:darkmagenta     
+}
+
+.zip{
+    margin: 10px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+input{
+    margin: 10px;
+    height: 50px;
+    font-size: 16px;
+    
+}
+
+button{
+    margin: 20px;
+    height: 30px;
+    border-radius: 10%;
+    background-color: darkmagenta;
+    color: white;
+}
+
+h3{
+    font-size: 24px;
+    color: darkmagenta;
+    text-decoration: underline;
+}
+
+.output{
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
+
+
+/*h1{
+    text-align: center;
+    font-size: 50px;
+    color: #ff808b;
+    text-shadow: 2px 2px 4px #000000;
+}
+h2{
+    text-align: center;
+    font-size: 30px;
+    color: #ff808b;
+    text-shadow: 2px 2px 4px #000000;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+    color: #ff808b;
+    text-shadow: 2px 2px 4px #000000;
+}
+input[type=text], select, textarea {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ff808b;
+    border-radius: 4px;
+    position: relative;
+    left: 40%;    
+}
+button{
+    background-color: #ff808b;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: 2px solid #ff808b;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    left: 47%;
+}
+.container{
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    border: 2px solid #ff808b;
+    padding: 20px;
+    position: relative;
+    left: 30%;
+    width: 40%;
+}
+#city{
+    font-style: italic;
+}
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: 2px solid #ff808b;
+    background-color: #ff808b;
+    color: white;
+    padding: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+#myBtn:hover {
+    background-color: #555;
+}*/
