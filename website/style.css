@@ -45,8 +45,9 @@ h3{
     text-decoration: underline;
 }
 
-.output{
-    font-size: 24px;
+.output{    
+    font-size: 48px;
+    font-style: italic;
     text-align: center;
 }
 
